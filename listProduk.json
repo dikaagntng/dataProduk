@@ -1,0 +1,33 @@
+[
+  { "kategori": "public", "nama": "PANEL RAM 1GB CPU 30%", "harga": 1000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "PANEL RAM 2GB CPU 60%", "harga": 2000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "PANEL RAM 3GB CPU 90%", "harga": 3000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "PANEL RAM 4GB CPU 110%", "harga": 4000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "PANEL RAM 5GB CPU 130%", "harga": 5000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "PANEL UNLIMITED RAM&CPU", "harga": 7000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "public", "nama": "RESELLER PANEL", "harga": 10000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/vasfu0.jpg"] },
+  { "kategori": "public", "nama": "OWNER RESELLER PANEL", "harga": 15000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/vasfu0.jpg"] },
+  { "kategori": "public", "nama": "ADMIN PANEL", "harga": 20000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/l2hp1q.jpg"] },
+  { "kategori": "public", "nama": "PARTNER PANEL", "harga": 25000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/l2hp1q.jpg"] },
+
+  { "kategori": "private", "nama": "PANEL RAM 1GB CPU 30%", "harga": 2000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "PANEL RAM 2GB CPU 60%", "harga": 3000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "PANEL RAM 3GB CPU 90%", "harga": 4000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "PANEL RAM 4GB CPU 110%", "harga": 5000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "PANEL RAM 5GB CPU 130%", "harga": 6000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "PANEL UNLIMITED RAM&CPU", "harga": 10000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/y1bqkj.jpg"] },
+  { "kategori": "private", "nama": "RESELLER PANEL", "harga": 15000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/vasfu0.jpg"] },
+  { "kategori": "private", "nama": "OWNER RESELLER PANEL", "harga": 20000, "img": ["https://files.catbox.moe/sxxeyt.jpg","https://files.catbox.moe/vasfu0.jpg"] },
+
+  { "kategori": "vps", "nama": "VPS RAM 2GB CORE 2", "harga": 25000, "img": ["https://files.catbox.moe/zuq7o2.jpg"] },
+  { "kategori": "vps", "nama": "VPS RAM 4GB CORE 2", "harga": 30000, "img": ["https://files.catbox.moe/zuq7o2.jpg"] },
+  { "kategori": "vps", "nama": "VPS RAM 8GB CORE 4", "harga": 40000, "img": ["https://files.catbox.moe/zuq7o2.jpg"] },
+  { "kategori": "vps", "nama": "VPS RAM 16GB CORE 4", "harga": 50000, "img": ["https://files.catbox.moe/zuq7o2.jpg"] },
+
+  { "kategori": "bot", "nama": "BOT MASA AKTIF 1BULAN", "harga": 10000, "img": ["https://files.catbox.moe/abit7j.jpg"] },
+  { "kategori": "bot", "nama": "BOT MASA AKTIF 2BULAN", "harga": 15000, "img": ["https://files.catbox.moe/abit7j.jpg"] },
+  { "kategori": "bot", "nama": "BOT MASA AKTIF PERMANEN", "harga": 25000, "img": ["https://files.catbox.moe/abit7j.jpg"] },
+
+  { "kategori": "script", "nama": "BRUTALITY V8 GEN 2 [NO ADMIN DB]", "harga": 15000, "img": ["https://files.catbox.moe/jvt7s3.jpg","https://files.catbox.moe/29n4c2.jpg"] },
+  { "kategori": "script", "nama": "BRUTALITY V8 GEN 2 [ADMIN DB]", "harga": 30000, "img": ["https://files.catbox.moe/jvt7s3.jpg","https://files.catbox.moe/29n4c2.jpg"] }
+]
